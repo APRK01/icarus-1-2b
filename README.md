@@ -1,4 +1,4 @@
-# ICARUS 1 2B: NEONAUT STUDIO INTELLIGENCE KERNEL
+# ICARUS 1 2B By NEONAUT STUDIO 
 
 ## Industrial-Grade Intelligence for the Edge
 
