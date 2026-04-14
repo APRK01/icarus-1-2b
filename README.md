@@ -1,5 +1,7 @@
 # ICARUS 1 2B By NEONAUT STUDIO 
 
+![Icarus Header](header.jpg)
+
 ## Industrial-Grade Intelligence for the Edge
 
 **Icarus 1 2B** is the premier edge-intelligence kernel developed by **Neonaut Studio**. Engineered for zero-latency environments, the Icarus architecture delivers unmatched reasoning density within a compact 2.6 billion parameter footprint.
